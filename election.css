@@ -1,0 +1,54 @@
+h1 {
+   
+    background-color: yellow;
+    color: blue;
+    font-family: "Georgia";
+}
+
+h2 {
+	background-color: green;
+	opacity:.75;
+	color:white;
+	font-family: "helvetica";
+}
+
+h3 {
+	background-color: red;
+	color:white;
+	font-size: larger;
+}
+
+
+h4 {
+	background-color: green;
+	color: white;
+}
+
+
+img
+{
+border:5px solid orange;
+opacity: .65;
+}
+
+ol
+{
+	color:orange;
+	font-size: 120%;
+}
+
+
+body {
+	color:purple;
+
+}
+
+table th,
+table td
+ {
+	text-align: left;
+	width: 4cm;
+
+}
+
+
